@@ -393,7 +393,7 @@ pcbs:
             - matrix_pinky_bottom
           shift: [0.75 kx, 0]
         params:
-          text: "samoklava v0.3\\nby soundmonster"
+          text: "Justin Binder's\\nsamoklava v0.3\\nby soundmonster"
           justify: left
       info_r:
         what: text
@@ -403,6 +403,6 @@ pcbs:
           shift: [0.75 kx, 0]
         params:
           layer: B.SilkS
-          text: "samoklava v0.3\\nby soundmonster"
+          text: "Justin Binder's\\nsamoklava v0.3\\nby soundmonster"
           justify: right mirror
 
